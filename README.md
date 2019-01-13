@@ -5,7 +5,7 @@ Udacity Full Stack Web Developer Nanodegree Project : Linux Server Configuration
 
 Server Public IP Address: 3.84.174.94
 
-URL: http://3.84.174.94/
+Application url: http://ec2-3-84-174-94.compute-1.amazonaws.com
 
 SSH Port: 2200
 
